@@ -1,13 +1,23 @@
 .cabecalho {
-    background-color: #383D58;
+    
+    background-color: #ad0a0a;
     color: white;
     display:flex;
     justify-content: space-around;
     }
     .cabecalho-lista-item{
         display: inline-block;
-        margin: 0 16px;
+        margin: 0 9%;
         justify-content: space-around;
-        padding: 20px 0;
-        font-size: 13px;
-}
+        padding: 5px 0;
+        font-size: 13px;}
+        .escola-imagem {  width:50%;}
+        .escola {
+            background-image: linear-gradient(#412929,#f50408fe);
+            color:white;
+            display:flex;
+            }
+            .escoala-conteudo{
+                width: 35%;
+            }
+            
