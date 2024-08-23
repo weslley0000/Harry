@@ -1,17 +1,18 @@
 .cabecalho {
     
     background-color: #ad0a0a;
-    color: white;
+    color: rgb(253, 252, 252);
     display:flex;
-    justify-content: space-around;
+    justify-content: content;
     }
     .cabecalho-lista-item{
         display: inline-block;
-        margin: 0 9%;
-        justify-content: space-around;
+        margin: 0 65%;
+        justify-content: content;
+        align-items: center;
         padding: 5px 0;
-        font-size: 13px;}
-        .escola-imagem {  width:50%;}
+        font-size: 20px;}
+        .escola-imagem {  width:30%;} 
         .escola {
             background-image: linear-gradient(#412929,#f50408fe);
             color:white;
@@ -20,4 +21,11 @@
             .escoala-conteudo{
                 width: 35%;
             }
+            body{
+                font-family:"Poppins",sans-serif;
+                }
+                .estudante-imagem{
+                    width: 1350px;
+                    }
+
             
