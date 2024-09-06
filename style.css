@@ -25,7 +25,12 @@
                 font-family:"Poppins",sans-serif;
                 }
                 .estudante-imagem{
-                    width: 1350px;
+                    width: 1203px;
+                }
+                footer{
+                    background-color: black;
+                    padding: 15px 0;
+                    text-align: center;
+                    width: 20%;
+                    height: 30%;
                     }
-
-            
